@@ -1,0 +1,3 @@
+target: server
+repo_url: http://github.com/jaddison06/thaum_example_config
+output_dir: bin

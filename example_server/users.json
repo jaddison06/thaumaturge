@@ -1,0 +1,11 @@
+{
+    "users": {
+        "jaddison": {
+            "uuid": "be430adc-2a7f-4bba-98f8-2fdfa13892b0",
+            "username": "jaddison",
+            "passwordHash": "7cab1f871bdcf919937e4c4b50bb35e92c3bcc137976cc1290cac4f908f6c0af",
+            "salt": "df4d5847-5594-4e07-b168-095870270db2",
+            "authLevel": 2
+        }
+    }
+}
